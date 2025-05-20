@@ -1,0 +1,149 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page58900335.html
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^architecrure$ page59147123.html [NC]
+RewriteRule ^architecrure/$ page59147123.html [NC]
+
+RewriteRule ^banquet-house$ page59157689.html [NC]
+RewriteRule ^banquet-house/$ page59157689.html [NC]
+
+RewriteRule ^log-center$ page60917623.html [NC]
+RewriteRule ^log-center/$ page60917623.html [NC]
+
+RewriteRule ^chess-federation$ page61104367.html [NC]
+RewriteRule ^chess-federation/$ page61104367.html [NC]
+
+RewriteRule ^dining-room-for-restaurant-cheese-factory-dushanbe$ page61111843.html [NC]
+RewriteRule ^dining-room-for-restaurant-cheese-factory-dushanbe/$ page61111843.html [NC]
+
+RewriteRule ^childrens-development-center$ page61141621.html [NC]
+RewriteRule ^childrens-development-center/$ page61141621.html [NC]
+
+RewriteRule ^interior-design-for-the-minds-educational-site$ page61143135.html [NC]
+RewriteRule ^interior-design-for-the-minds-educational-site/$ page61143135.html [NC]
+
+RewriteRule ^network-of-branded-stores-for-marmari$ page61147235.html [NC]
+RewriteRule ^network-of-branded-stores-for-marmari/$ page61147235.html [NC]
+
+RewriteRule ^recreation-area-chorkul$ page61149415.html [NC]
+RewriteRule ^recreation-area-chorkul/$ page61149415.html [NC]
+
+RewriteRule ^design-proposal-for-a-multi-storey-residential-complex-in-dushanbe$ page61272553.html [NC]
+RewriteRule ^design-proposal-for-a-multi-storey-residential-complex-in-dushanbe/$ page61272553.html [NC]
+
+RewriteRule ^design-proposal-for-a-multi-storey-residential-complex-in-dushanbe-2$ page61275045.html [NC]
+RewriteRule ^design-proposal-for-a-multi-storey-residential-complex-in-dushanbe-2/$ page61275045.html [NC]
+
+RewriteRule ^draft-design-for-city-parking-dushanbe$ page61278071.html [NC]
+RewriteRule ^draft-design-for-city-parking-dushanbe/$ page61278071.html [NC]
+
+RewriteRule ^a-trestle-bed-in-a-country-house$ page61279661.html [NC]
+RewriteRule ^a-trestle-bed-in-a-country-house/$ page61279661.html [NC]
+
+RewriteRule ^children-entertainment-center-in-khujand$ page61331415.html [NC]
+RewriteRule ^children-entertainment-center-in-khujand/$ page61331415.html [NC]
+
+RewriteRule ^chess-federation-building$ page61333659.html [NC]
+RewriteRule ^chess-federation-building/$ page61333659.html [NC]
+
+RewriteRule ^fitnes-club$ page61577533.html [NC]
+RewriteRule ^fitnes-club/$ page61577533.html [NC]
+
+RewriteRule ^apartment-khushdil$ page61603755.html [NC]
+RewriteRule ^apartment-khushdil/$ page61603755.html [NC]
+
+RewriteRule ^design-project-for-the-new-office-of-avesto-group-llc$ page61944637.html [NC]
+RewriteRule ^design-project-for-the-new-office-of-avesto-group-llc/$ page61944637.html [NC]
+
+RewriteRule ^product$ page59163169.html [NC]
+RewriteRule ^product/$ page59163169.html [NC]
+
+RewriteRule ^modelling$ page59171061.html [NC]
+RewriteRule ^modelling/$ page59171061.html [NC]
+
+RewriteRule ^maket-siyoma-2020$ page59172651.html [NC]
+RewriteRule ^maket-siyoma-2020/$ page59172651.html [NC]
+
+RewriteRule ^maket-siyomamoll-2020$ page63097341.html [NC]
+RewriteRule ^maket-siyomamoll-2020/$ page63097341.html [NC]
+
+RewriteRule ^maket-artel-ae-2020$ page63099501.html [NC]
+RewriteRule ^maket-artel-ae-2020/$ page63099501.html [NC]
+
+RewriteRule ^maket-toj-2020$ page63101965.html [NC]
+RewriteRule ^maket-toj-2020/$ page63101965.html [NC]
+
+RewriteRule ^residential-building-meros-2020$ page63286159.html [NC]
+RewriteRule ^residential-building-meros-2020/$ page63286159.html [NC]
+
+RewriteRule ^road-traffic-regulations-for-the-city-of-bokhtar-2020$ page63286835.html [NC]
+RewriteRule ^road-traffic-regulations-for-the-city-of-bokhtar-2020/$ page63286835.html [NC]
+
+RewriteRule ^model-of-a-residential-building-on-shokhtemur-street-zarya-2021$ page63288069.html [NC]
+RewriteRule ^model-of-a-residential-building-on-shokhtemur-street-zarya-2021/$ page63288069.html [NC]
+
+RewriteRule ^layout-of-huawei-tajikistan-llc-2021$ page63288615.html [NC]
+RewriteRule ^layout-of-huawei-tajikistan-llc-2021/$ page63288615.html [NC]
+
+RewriteRule ^model-of-shokhtemur-ubaydullo-2021$ page63289267.html [NC]
+RewriteRule ^model-of-shokhtemur-ubaydullo-2021/$ page63289267.html [NC]
+
+RewriteRule ^layout-of-shokh-palace-plaza-2021$ page63289595.html [NC]
+RewriteRule ^layout-of-shokh-palace-plaza-2021/$ page63289595.html [NC]
+
+RewriteRule ^layout-of-lohuti-19-2022$ page63327969.html [NC]
+RewriteRule ^layout-of-lohuti-19-2022/$ page63327969.html [NC]
+
+RewriteRule ^layout-of-marakand-palace-2022$ page63328235.html [NC]
+RewriteRule ^layout-of-marakand-palace-2022/$ page63328235.html [NC]
+
+RewriteRule ^layout-institute-singapore-2022$ page63328553.html [NC]
+RewriteRule ^layout-institute-singapore-2022/$ page63328553.html [NC]
+
+RewriteRule ^kindergarten-layout-for-worldbank-2022$ page63332009.html [NC]
+RewriteRule ^kindergarten-layout-for-worldbank-2022/$ page63332009.html [NC]
+
+RewriteRule ^layout-of-the-residential-complex-on-the-st-bukhoro-2023$ page63332441.html [NC]
+RewriteRule ^layout-of-the-residential-complex-on-the-st-bukhoro-2023/$ page63332441.html [NC]
+
+RewriteRule ^layout-of-bridge-navobod-2023$ page63333051.html [NC]
+RewriteRule ^layout-of-bridge-navobod-2023/$ page63333051.html [NC]
+
+RewriteRule ^model-of-hpp-sebzor-2023$ page63333529.html [NC]
+RewriteRule ^model-of-hpp-sebzor-2023/$ page63333529.html [NC]
+
+RewriteRule ^shokhpalas-2023-layout$ page63335095.html [NC]
+RewriteRule ^shokhpalas-2023-layout/$ page63335095.html [NC]
+
+RewriteRule ^layout-residential-building-burj-anushervon-2024$ page63336881.html [NC]
+RewriteRule ^layout-residential-building-burj-anushervon-2024/$ page63336881.html [NC]
+
+RewriteRule ^dangara-plant-layout-2024$ page63337315.html [NC]
+RewriteRule ^dangara-plant-layout-2024/$ page63337315.html [NC]
+
+RewriteRule ^dangara-layout$ page63467267.html [NC]
+RewriteRule ^dangara-layout/$ page63467267.html [NC]
+
+RewriteRule ^academy$ page60843855.html [NC]
+RewriteRule ^academy/$ page60843855.html [NC]
+
+RewriteRule ^opening-caremony$ page65119191.html [NC]
+RewriteRule ^opening-caremony/$ page65119191.html [NC]
+
+RewriteRule ^muqarnas$ page65119729.html [NC]
+RewriteRule ^muqarnas/$ page65119729.html [NC]
+
+RewriteRule ^wad-2023$ page65119861.html [NC]
+RewriteRule ^wad-2023/$ page65119861.html [NC]
+
+RewriteRule ^wad-2024$ page65119931.html [NC]
+RewriteRule ^wad-2024/$ page65119931.html [NC]
+
+
